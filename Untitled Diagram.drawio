@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T04:41:06.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.4" etag="J6Yi31UB4orW_zm4PeJ1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-10T05:13:28.289Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="q5o78btzPXpJuXVNdJXh" version="24.0.4" type="github">
   <diagram name="Page-1" id="3uankBrDN3yUMlhbO7Us">
-    <mxGraphModel>
+    <mxGraphModel dx="2142" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-4" value="Corpse God" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-510" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/15/507642.webp?s=65907417e649a434d0db7ea564775641;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-4">
+          <mxGeometry x="5" y="30" width="100" height="147.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-5" value="Takumi Kuruya" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-510" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/16/493507.webp?s=7dad318c0326e986e85abc9a883ffecc;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-5">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-8" value="Misaki Sakimiya" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="-510" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/3/493506.webp?s=942f9b0eac6ea913216468f49a2ac098;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-8">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-10" value="Majiri Agakura" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-860" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/6/526418.webp?s=54c66f103ae1af14c7ac55ec675866a4;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-10">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-12" value="Momoya Agakura" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-860" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-13" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/6/515460.webp?s=8114c628121c17e02fb970dd2bda46fc;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-12">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-14" value="Saki Aikawa" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-860" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/2/506095.webp?s=1f77f4d64c8aee9f6b6168f8e7044806;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-14">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-16" value="Kouzaburou Arase" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-860" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-17" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/8/506101.webp?s=6fe5a621443475306b707c47dee8ad61;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-16">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-18" value="Izuna Ajijou" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="-460" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/7/506097.webp?s=70074b1a737d5c124b2888cb53d594ef;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-18">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-20" value="Bao" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-80" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-21" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/12/512940.webp?s=996163796488bd27b3857d512e25ac93;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-20">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-22" value="Framrodia Byandiraz" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-270" width="130" height="177.62" as="geometry">
+            <mxRectangle x="-270" y="-270" width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-23" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/10/528043.webp?s=52f1c0fd18a4a50e7835c8c1a9907d0e;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-22">
+          <mxGeometry x="17.7" y="30" width="94.59" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-24" value="Saya Deathclaw" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-270" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-25" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/10/510261.webp?s=2ef9e749e030432569fcce123a2aacda;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-24">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-26" value="Misaki Sakimiya" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-270" width="110" height="177.62" as="geometry" />
+        </mxCell>
+        <mxCell id="cYiMjBRpk8QNLAHrItL_-27" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn.myanimelist.net/r/84x124/images/characters/3/493506.webp?s=942f9b0eac6ea913216468f49a2ac098;" vertex="1" parent="cYiMjBRpk8QNLAHrItL_-26">
+          <mxGeometry x="5" y="30" width="100" height="148" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
